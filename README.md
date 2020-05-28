@@ -19,7 +19,7 @@
 * Convolutional (conv.) layers with a very small receptive field: 3 × 3    * which is the smallest size to capture the notion of left/right, up/down, center
 
 ### 2.2 CONFIGURATIONS
-![Image](./Image/Table#1.png)
+![Table#1](https://user-images.githubusercontent.com/52662915/83132459-65f60680-a11c-11ea-94b6-9c88c9a0bec2.png)
 
 ### 3. Evaluation
 ### 3.1 Single Scale Evaluation
