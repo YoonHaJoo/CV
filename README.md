@@ -35,7 +35,7 @@
 
 ### 3.2 Multi-Scale Evaluation
 
-Table#4.png
+![Table#4](https://user-images.githubusercontent.com/52662915/83132840-f16f9780-a11c-11ea-878c-3c09fa0baac9.png)
 
 * Scale jittering at test time leads to better performance
 
