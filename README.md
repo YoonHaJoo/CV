@@ -52,7 +52,7 @@
 
 ### 3.5 COMPARISON WITH THE STATE OF THE ART
 
-Table#7.png
+![Table#7](https://user-images.githubusercontent.com/52662915/83132976-1f54dc00-a11d-11ea-964b-b9a9dfb7e1ec.png)
 
 ### 4. Discussion
 
