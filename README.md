@@ -24,7 +24,7 @@
 ### 3. Evaluation
 ### 3.1 Single Scale Evaluation
 
-Table#3.png
+![Table#3](https://user-images.githubusercontent.com/52662915/83132770-dac94080-a11c-11ea-91f8-7f5252fb492c.png)
 
 * layers with a single 5×5 conv. layer (which has the same receptive field as explained in Sect. 2.3). The top-1 error of the shallow net was measured to be 7% higher than that of B (on a center crop), which confirms that a deep net with small filters outperforms a shallow net with larger filters
 * Classification error decreases with the increased ConvNet depth: from 11 layers in A to 19 layers in E
