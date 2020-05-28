@@ -41,7 +41,7 @@
 
 ### 3.3 Multi-crop Evaluation
 
-Table#5.png
+![Table#5](https://user-images.githubusercontent.com/52662915/83132877-ff251d00-a11c-11ea-835f-b65db2828ee3.png)
 
 * Using multiple crops performs slightly better than dense evaluation
 * Two approaches are indeed complementary, as their combination outperforms each of them
