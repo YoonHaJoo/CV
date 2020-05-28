@@ -48,7 +48,7 @@
 
 ### 3.4 CONVNET FUSION
 
-Table#6.png
+![Table#6](https://user-images.githubusercontent.com/52662915/83132929-106e2980-a11d-11ea-9f6c-2a674ac5455f.png)
 
 ### 3.5 COMPARISON WITH THE STATE OF THE ART
 
